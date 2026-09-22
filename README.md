@@ -1,6 +1,6 @@
 # Yao Junhao · ImCaterpillar
 
-**AI 应用开发 / 全栈 Web·PWA / 安全开发**　·　广州大学 网络空间安全学院 · 2026 届 · base 广州
+**AI 应用开发 / 全栈 Web·PWA / 安全开发**　·　广州大学 网络空间安全学院 · 2028 届 · base 广州
 
 ### 作品集（真实项目截图 · 架构图 · 决策与复盘）
 ## → **[imcaterpillar.github.io/portfolio](https://imcaterpillar.github.io/portfolio/)**
